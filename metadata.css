@@ -1,0 +1,47 @@
+/*
+* Emily
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+
+body {
+    background-color: blanchedalmond;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header { 
+    background-color: tan; }
+
+
+h1 { font-size: 200%;
+    text-align: center;
+    text-decoration: overline underline;
+
+}
+main {
+    background-color: burlywood;
+    text-align: left;
+
+}
+
+footer {
+    background-color:tan;
+    
+}
+
+#Coffee { width: 200px; height: 200px; float: left; }
+
+
+
+#Coffeebean { float: right; }
